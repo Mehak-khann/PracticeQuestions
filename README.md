@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
