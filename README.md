@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0739-daily-temperatures) |
+| [1732-find-the-highest-altitude](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1732-find-the-highest-altitude) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0013-roman-to-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
