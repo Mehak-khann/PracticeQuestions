@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0148-sort-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
