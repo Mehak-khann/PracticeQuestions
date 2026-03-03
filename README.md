@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1189-maximum-number-of-balloons) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0141-linked-list-cycle) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0692-top-k-frequent-words) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
