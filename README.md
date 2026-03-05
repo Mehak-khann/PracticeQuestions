@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0739-daily-temperatures) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1046-last-stone-weight](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1046-last-stone-weight) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1732-find-the-highest-altitude) |
