@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0347-top-k-frequent-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0739-daily-temperatures) |
