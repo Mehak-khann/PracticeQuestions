@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
 |  |
 | ------- |
