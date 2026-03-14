@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0347-top-k-frequent-elements) |
@@ -273,13 +274,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
