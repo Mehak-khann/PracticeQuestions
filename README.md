@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Design
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
@@ -264,5 +267,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
