@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0706-design-hashmap) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0735-asteroid-collision) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0232-implement-queue-using-stacks) |
+| [0706-design-hashmap](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 ## Two Pointers
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0706-design-hashmap](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Merge Sort
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0200-number-of-islands) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
