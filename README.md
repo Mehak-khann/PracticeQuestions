@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1046-last-stone-weight) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -322,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
