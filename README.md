@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0706-design-hashmap) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0148-sort-list) |
 | [0567-permutation-in-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0658-find-k-closest-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0692-top-k-frequent-words) |
 | [0853-car-fleet](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0853-car-fleet) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -234,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0658-find-k-closest-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0973-k-closest-points-to-origin) |
