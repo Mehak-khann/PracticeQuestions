@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0973-k-closest-points-to-origin) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
 ## Queue
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
