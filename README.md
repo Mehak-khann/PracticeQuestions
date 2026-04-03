@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -399,5 +400,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
