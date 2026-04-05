@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0239-sliding-window-maximum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0611-valid-triangle-number) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0263-ugly-number) |
