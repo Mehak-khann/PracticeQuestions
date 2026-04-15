@@ -6,11 +6,7 @@ class Solution {
             val=Math.min(val,Math.abs(i-start));
         }
        }
-       for(int i=nums.length-1;i>=0;i--){
-        if(nums[i]==target){
-            val=Math.min(val,Math.abs(i-start));
-        }
-       }
+       
        return val;
     }
 }
