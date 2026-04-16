@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0090-subsets-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0227-basic-calculator-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0733-flood-fill) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
