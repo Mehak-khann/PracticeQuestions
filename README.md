@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2542-maximum-subsequence-score) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0973-k-closest-points-to-origin) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
