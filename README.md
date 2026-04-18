@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0973-k-closest-points-to-origin) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Prefix Sum
 |  |
 | ------- |
