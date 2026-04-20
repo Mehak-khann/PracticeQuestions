@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0572-subtree-of-another-tree) |
 | [0706-design-hashmap](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0706-design-hashmap) |
 ## Tree
 |  |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2236-root-equals-sum-of-children](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2236-root-equals-sum-of-children](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2236-root-equals-sum-of-children) |
 ## Ordered Set
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0572-subtree-of-another-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
