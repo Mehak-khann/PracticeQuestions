@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0090-subsets-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0295-find-median-from-data-stream) |
