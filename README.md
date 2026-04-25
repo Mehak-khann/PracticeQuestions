@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0227-basic-calculator-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0853-car-fleet) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0733-flood-fill) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0022-generate-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0085-maximal-rectangle) |
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
 ## Memoization
