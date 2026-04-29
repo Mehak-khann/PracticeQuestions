@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0189-rotate-array) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
 ## Memoization
