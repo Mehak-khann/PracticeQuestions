@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0567-permutation-in-string) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0658-find-k-closest-elements) |
