@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0973-k-closest-points-to-origin) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0788-rotated-digits) |
 ## Memoization
 |  |
 | ------- |
