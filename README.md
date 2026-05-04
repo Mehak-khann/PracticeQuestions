@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
@@ -470,12 +473,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0119-pascals-triangle-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0788-rotated-digits) |
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
