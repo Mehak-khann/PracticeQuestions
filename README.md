@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0355-design-twitter) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0567-permutation-in-string) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0567-permutation-in-string) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2833-furthest-point-from-origin) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0950-reveal-cards-in-increasing-order) |
