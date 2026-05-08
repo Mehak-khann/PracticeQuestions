@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0427-construct-quad-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0427-construct-quad-tree) |
 | [0455-assign-cookies](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0496-next-greater-element-i) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0427-construct-quad-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0200-number-of-islands) |
+| [0427-construct-quad-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0427-construct-quad-tree) |
 | [0733-flood-fill](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0733-flood-fill) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0427-construct-quad-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2236-root-equals-sum-of-children](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2236-root-equals-sum-of-children) |
