@@ -38,6 +38,53 @@ class Node {
 }
 */
 
+//with void return type
+/*
+class Solution {
+    public boolean isAllSame(int[][] grid, int x, int y, int n) {
+        int val = grid[x][y];
+        for (int i = x; i < x + n; i++) {
+            for (int j = y; j < y + n; j++) {
+                if (grid[i][j] != val) return false;
+            }
+        }
+        return true;
+    }
+
+    public void solve(int[][] grid, int x, int y, int n, Node curr) {
+        if (isAllSame(grid, x, y, n)) {
+            curr.isLeaf = true;
+            curr.val = (grid[x][y] == 1);
+            // Children remain null by default as per the Node constructor
+        } else {
+            curr.isLeaf = false;
+            curr.val = true; // Typical default for internal nodes
+
+            int half = n / 2;
+            
+            // 1. Initialize the children nodes
+            curr.topLeft = new Node();
+            curr.topRight = new Node();
+            curr.bottomLeft = new Node();
+            curr.bottomRight = new Node();
+
+            // 2. Recursively fill the children
+            solve(grid, x, y, half, curr.topLeft);
+            solve(grid, x, y + half, half, curr.topRight);
+            solve(grid, x + half, y, half, curr.bottomLeft);
+            solve(grid, x + half, y + half, half, curr.bottomRight);
+        }
+    }
+
+    public Node construct(int[][] grid) {
+        if (grid == null || grid.length == 0) return null;
+        
+        Node root = new Node();
+        solve(grid, 0, 0, grid.length, root);
+        return root;
+    }
+}
+*/
 class Solution {
     public boolean isAllSame(int[][] grid,int x, int y,int n){
         int val=grid[x][y];
