@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0427-construct-quad-tree) |
 | [0733-flood-fill](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0733-flood-fill) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Union-Find
 |  |
