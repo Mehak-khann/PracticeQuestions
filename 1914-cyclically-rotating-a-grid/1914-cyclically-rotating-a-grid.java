@@ -13,6 +13,7 @@
 //               int n = nums.size();
 //         if(k==n) return;
 //         if(k>n) k=k%n;
+//rotate right
 //         reversepart(0,n-1-k,nums);
 //         reversepart(n-k,n-1,nums);
 //         reversepart(0,n-1,nums);
