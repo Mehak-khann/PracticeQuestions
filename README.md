@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0290-word-pattern) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
