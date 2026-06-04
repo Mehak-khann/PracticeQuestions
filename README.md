@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0973-k-closest-points-to-origin) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Prefix Sum
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0788-rotated-digits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -573,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
