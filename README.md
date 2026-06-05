@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1732-find-the-highest-altitude) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0853-car-fleet) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0973-k-closest-points-to-origin) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2126-destroying-asteroids) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0649-dota2-senate) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2126-destroying-asteroids) |
