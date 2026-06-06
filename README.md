@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2542-maximum-subsequence-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2574-left-and-right-sum-differences](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |
