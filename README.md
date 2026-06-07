@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0706-design-hashmap) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0427-construct-quad-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2236-root-equals-sum-of-children) |
 ## Ordered Set
 |  |
