@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0658-find-k-closest-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2553-separate-the-digits-in-an-array) |
