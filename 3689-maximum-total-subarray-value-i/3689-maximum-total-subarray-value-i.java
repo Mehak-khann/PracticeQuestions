@@ -8,7 +8,11 @@ class Solution {
           maxV=Math.max(nums[i],maxV);
           minV=Math.min(nums[i],minV);
         }
-      ans = (long)k*(maxV-minV);
+        // for(int i=0;i<k;i++){
+        //     ans+=maxV-minV;
+        // }
+         ans = (long)k*(maxV-minV);
+
         return ans ;
     }
 }
