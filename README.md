@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0085-maximal-rectangle) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0200-number-of-islands) |
 | [0427-construct-quad-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0427-construct-quad-tree) |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
