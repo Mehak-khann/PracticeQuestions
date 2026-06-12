@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0692-top-k-frequent-words) |
+| [0784-letter-case-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0784-letter-case-permutation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0231-power-of-two) |
+| [0784-letter-case-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0784-letter-case-permutation) |
 ## Backtracking
 |  |
 | ------- |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
+| [0784-letter-case-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0784-letter-case-permutation) |
 ## Enumeration
 |  |
 | ------- |
