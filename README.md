@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0658-find-k-closest-elements) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0973-k-closest-points-to-origin) |
