@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0290-word-pattern) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
