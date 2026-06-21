@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1488-avoid-flood-in-the-city](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1488-avoid-flood-in-the-city) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0980-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Backtracking
 |  |
 | ------- |
@@ -623,8 +625,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0980-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Enumeration
 |  |
 | ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
