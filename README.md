@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2542-maximum-subsequence-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2574-left-and-right-sum-differences) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0788-rotated-digits) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Memoization
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0980-unique-paths-iii) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Backtracking
 |  |
 | ------- |
@@ -632,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Bitmask
+|  |
+| ------- |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3149-find-the-minimum-cost-array-permutation) |
 <!---LeetCode Topics End-->
