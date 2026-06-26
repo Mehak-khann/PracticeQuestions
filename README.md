@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0980-unique-paths-iii) |
 | [1046-last-stone-weight](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1046-last-stone-weight) |
+| [1219-path-with-maximum-gold](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1219-path-with-maximum-gold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0427-construct-quad-tree) |
 | [0733-flood-fill](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1219-path-with-maximum-gold) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1219-path-with-maximum-gold) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Enumeration
 |  |
