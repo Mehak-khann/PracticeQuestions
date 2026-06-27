@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2542-maximum-subsequence-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2574-left-and-right-sum-differences) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0973-k-closest-points-to-origin) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2542-maximum-subsequence-score) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Recursion
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0788-rotated-digits) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -633,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1219-path-with-maximum-gold) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Enumeration
 |  |
 | ------- |
@@ -642,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3149-find-the-minimum-cost-array-permutation) |
+## Combinatorics
+|  |
+| ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2597-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
