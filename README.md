@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0706-design-hashmap) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1189-maximum-number-of-balloons) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1488-avoid-flood-in-the-city](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1488-avoid-flood-in-the-city) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1189-maximum-number-of-balloons) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2833-furthest-point-from-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2833-furthest-point-from-origin) |
 ## Stack
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0980-unique-paths-iii) |
 | [1046-last-stone-weight](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1046-last-stone-weight) |
 | [1219-path-with-maximum-gold](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1219-path-with-maximum-gold) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0788-rotated-digits) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -624,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0980-unique-paths-iii) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Backtracking
@@ -645,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1219-path-with-maximum-gold) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Enumeration
@@ -655,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Combinatorics
 |  |
