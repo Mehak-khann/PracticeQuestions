@@ -2,6 +2,6 @@
 select * from Cinema 
 where id%2!=0 
 AND
-description NOT LIKE 'boring'
+description!='boring'
 order by rating desc
 ;
