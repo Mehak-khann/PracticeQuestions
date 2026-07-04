@@ -668,4 +668,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2597-the-number-of-beautiful-subsets) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
