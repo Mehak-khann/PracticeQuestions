@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0706-design-hashmap) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1331-rank-transform-of-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1488-avoid-flood-in-the-city](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1488-avoid-flood-in-the-city) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1219-path-with-maximum-gold) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1288-remove-covered-intervals](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1838-frequency-of-the-most-frequent-element) |
