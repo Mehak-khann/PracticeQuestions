@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0973-k-closest-points-to-origin) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -689,4 +690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
