@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1288-remove-covered-intervals](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1331-rank-transform-of-an-array) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0933-number-of-recent-calls) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1396-design-underground-system](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2336-smallest-number-in-infinite-set) |
