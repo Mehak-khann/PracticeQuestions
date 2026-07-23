@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1396-design-underground-system](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1396-design-underground-system) |
 | [1488-avoid-flood-in-the-city](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1488-avoid-flood-in-the-city) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1396-design-underground-system](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1396-design-underground-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Mehak-khann/PracticeQuestions/tree/master/0933-number-of-recent-calls) |
+| [1396-design-underground-system](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Two Pointers
