@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3484-design-spreadsheet](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3484-design-spreadsheet) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3484-design-spreadsheet](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3484-design-spreadsheet) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3838-weighted-word-mapping) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3484-design-spreadsheet](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3484-design-spreadsheet) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2336-smallest-number-in-infinite-set) |
+| [3484-design-spreadsheet](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3484-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3484-design-spreadsheet](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3484-design-spreadsheet) |
 ## Union-Find
 |  |
 | ------- |
