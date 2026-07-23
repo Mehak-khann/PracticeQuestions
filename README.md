@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2349-design-a-number-container-system](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2349-design-a-number-container-system) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1472-design-browser-history) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2349-design-a-number-container-system](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2349-design-a-number-container-system) |
 | [3484-design-spreadsheet](https://github.com/Mehak-khann/PracticeQuestions/tree/master/3484-design-spreadsheet) |
 ## Two Pointers
 |  |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1046-last-stone-weight) |
 | [1488-avoid-flood-in-the-city](https://github.com/Mehak-khann/PracticeQuestions/tree/master/1488-avoid-flood-in-the-city) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2349-design-a-number-container-system](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2349-design-a-number-container-system) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2542-maximum-subsequence-score) |
 ## Monotonic Queue
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2349-design-a-number-container-system](https://github.com/Mehak-khann/PracticeQuestions/tree/master/2349-design-a-number-container-system) |
 ## Geometry
 |  |
 | ------- |
